@@ -1,0 +1,10 @@
+
+Z
+java:S1128"=Remove this unused import 'com.splitwise.model.ExpenseGroup'.(ËËž‚8“£Û–ï.
+U
+java:S1444"3Make this "public static expenseGroups" field final(ŒŸõ½ýÿÿÿÿ8¯õ¶–ï.
+{
+java:S1104"YMake expenseGroups a static final constant or non-public and provide accessors if needed.(ŒŸõ½ýÿÿÿÿ8¯õ¶–ï.
+\
+java:S1118
+":Add a private constructor to hide the implicit public one.(ÁÊæ×ýÿÿÿÿ8Ô‹Ÿ–ï.

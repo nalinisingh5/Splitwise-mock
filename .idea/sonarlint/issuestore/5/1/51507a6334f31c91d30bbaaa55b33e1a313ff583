@@ -1,0 +1,52 @@
+
+V
+java:S1854j"9Remove this useless assignment to local variable "user2".(¢ÓÀ¥8Şåõ”ï.
+^
+java:S1854`"<Remove this useless assignment to local variable "expense2".(½»ııÿÿÿÿ8½Ä¤šï.
+]
+java:S1854J";Remove this useless assignment to local variable "expense".(””ü²ûÿÿÿÿ8‚š…—ï.
+F
+java:S1481e")Remove this unused "Flat" local variable.(ªÀÇ”8ôë’–ï.
+V
+java:S1854k"9Remove this useless assignment to local variable "user3".(õòßÄ8¬‘ù”ï.
+G
+java:S1481i"*Remove this unused "user1" local variable.(çÙ‡¸8Şåõ”ï.
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(”±çÍüÿÿÿÿ8”¨îšï.
+[
+java:S1854l"9Remove this useless assignment to local variable "user4".(ëÛ“ıúÿÿÿÿ8ÖÔ¥šï.
+
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(²Á€œüÿÿÿÿ8è¢šï.
+Q
+java:S28645"4Iterate over the "entrySet" instead of the "keySet".(ı“ÙÏ8áÁïšï.
+G
+java:S1481k"*Remove this unused "user3" local variable.(õòßÄ8²ªù”ï.
+\
+java:S11442":Remove this unused private "showExpenseForOneUser" method.(‚ûûÙşÿÿÿÿ8ıòšï.
+V
+java:S1854i"9Remove this useless assignment to local variable "user1".(çÙ‡¸8Şåõ”ï.
+Z
+java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8×ÙÏ”ï.
+J
+java:S1481_"-Remove this unused "expense1" local variable.(ÆıÉŒ8´¿£šï.
+L
+java:S3740="/Provide the parametrized type for this generic.(ÊçËµ8§µ£™ï.
+Y
+java:S1854_"<Remove this useless assignment to local variable "expense1".(ÆıÉŒ8¼³¡šï.
+L
+java:S1481l"*Remove this unused "user4" local variable.(ëÛ“ıúÿÿÿÿ8ÖÔ¥šï.
+N
+java:S1481J",Remove this unused "expense" local variable.(””ü²ûÿÿÿÿ8‚š…—ï.
+G
+java:S1481j"*Remove this unused "user2" local variable.(¢ÓÀ¥8Şåõ”ï.
+K
+java:S1481d")Remove this unused "Trip" local variable.(Ü†Šâüÿÿÿÿ8ôë’–ï.
+U
+java:S1854e"8Remove this useless assignment to local variable "Flat".(ªÀÇ”8ôë’–ï.
+Z
+java:S1854d"8Remove this useless assignment to local variable "Trip".(Ü†Šâüÿÿÿÿ8ôë’–ï.
+0
+java:S1220""Move this file to a named package.
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(ù˜‚‚8³¥™ï.
+O
+java:S1481`"-Remove this unused "expense2" local variable.(½»ııÿÿÿÿ8àØ¤šï.
+X	java:S125/"<This block of commented-out lines of code should be removed.(’¼”8Ù£òšï.

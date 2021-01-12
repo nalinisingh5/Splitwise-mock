@@ -1,0 +1,9 @@
+
+P
+java:S1444	"3Make this "public static userShareList" field final(“ûââ8óĞ‚™ï.
+v
+java:S1104	"YMake userShareList a static final constant or non-public and provide accessors if needed.(“ûââ8óĞ‚™ï.
+:
+java:S2386	"Make this member "protected".(“ûââ8ÚÀšï.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ê–¥²8Åµù˜ï.

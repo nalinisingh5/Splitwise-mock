@@ -1,0 +1,12 @@
+
+R
+java:S1068"0Remove this unused "groupMembers" private field.(›¾ş‚şÿÿÿÿ8›Ò÷–ï.
+S
+java:S1068	"1Remove this unused "userShareList" private field.(ñüğÕùÿÿÿÿ8ˆ‰…šï.
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÒÜy8ûŠ”ï.
+O
+java:S1068"-Remove this unused "groupName" private field.(‡³‚öûÿÿÿÿ8¾Ò–ï.
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñÒÜy8ûŠ”ï.
+h
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ñÒÜy8ûŠ”ï.
